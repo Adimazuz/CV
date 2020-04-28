@@ -1,0 +1,16 @@
+body
+{
+  background-color: #cbf1f5;
+  font-family: cursive;
+
+}
+
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: white;
+  width: 5%;
+
+}
